@@ -1,0 +1,18 @@
+.kwissenschafttitel {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 560px;
+    color: rgb(221, 185, 25);
+    font-size: 50px;
+}
+.themen {font-family: Arial, Helvetica, sans-serif;
+     margin-left: 735px;
+     font-size: 30px;
+}
+html {
+    background-color: rgb(180, 236, 236);
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 560px;
+    font-size: 20px;
+}

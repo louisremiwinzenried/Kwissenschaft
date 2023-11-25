@@ -1,0 +1,62 @@
+
+    font-family: "Arial";
+    background: yellow;
+    color: black;
+    transition: all 250ms;
+    margin-left: 735px;
+    direction: ltr;
+    font-size: 30px;
+
+
+
+
+
+    :hover {font-size: 40px; color: black;}
+
+
+
+
+
+        <a style=":hover {font-size: 40px; color: black;} a {font-family: Arial, Helvetica, sans-serif; background: yellow; color: black; transition: all 250ms; margin-left: 735px; font-size: 30px;}" href="themen.html">Themen</a>
+
+
+
+
+#Universum {
+    position: relative;
+    top: 30px;
+    left: 365px;
+}
+
+
+
+
+
+
+#Tierebild {
+    width: 200px;
+    height: auto;
+    position: relative;
+    left: 500px;
+}
+<img src="images.jfif" alt="">
+
+
+
+
+
+
+
+
+
+#Universumbild {
+    width: 245px;
+    height: auto;
+    position: relative;
+    left: 1143px;
+}
+#Universum {
+    position: relative;
+    top: 30px;
+    left: 470px;
+}
