@@ -1,7 +1,6 @@
 .titelthemen {
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(17, 206, 42);
-    margin-left: 510px;
     font-size: 40px;
 }
 html {
@@ -22,8 +21,10 @@ img {
     width: 100%;
     height: auto;
 }
-div.Natur a {
-    display: block;
+div.Natur p {
+    text-align: center;
+}
+div.Themen h1 {
     text-align: center;
 }
 div.Themen {
