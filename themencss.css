@@ -23,6 +23,7 @@ img {
     height: auto;
 }
 div.Natur a {
+    display: block;
     text-align: center;
 }
 div.Themen {
