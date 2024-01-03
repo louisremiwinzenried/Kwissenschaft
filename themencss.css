@@ -18,8 +18,9 @@ a:hover {
         transition: all 250ms;
         font-size: 20px;
     }
-div.Natur {
+img {
     width: 100%;
+    height: auto;
 }
 div.Natur a {
     text-align: center;
