@@ -11,3 +11,6 @@ The content is similar to other lexicons.
 
 Français Ce site Web est une encyclopédie pour enfants destinée aux 7 à 12 ans.
 Le contenu est similaire à celui des autres lexiques.
+
+
+https://louisremiwinzenried.github.io/Kwissenschaft/
